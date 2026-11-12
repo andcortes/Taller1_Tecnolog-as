@@ -1,0 +1,18 @@
+{
+    "ana_gomez": [
+        {"producto": "Ratón inalámbrico", "categoria": "Informática", "precio": 25.50},
+        {"producto": "Teclado mecánico", "categoria": "Informática", "precio": 89.99},
+        {"producto": "Alfombrilla XXL", "categoria": "Accesorios", "precio": 15.00}
+    ],
+    "carlos_ruiz": [
+        {"producto": "Monitor 24 pulgadas", "categoria": "Informática", "precio": 145.00},
+        {"producto": "Cable HDMI", "categoria": "Accesorios", "precio": 9.95}
+    ],
+    "laura_m": [
+        {"producto": "Silla ergonómica", "categoria": "Mobiliario", "precio": 210.00},
+        {"producto": "Lámpara LED", "categoria": "Iluminación", "precio": 32.50},
+        {"producto": "Soporte portátil", "categoria": "Accesorios", "precio": 22.00},
+        {"producto": "Webcam HD", "categoria": "Informática", "precio": 55.00}
+    ],
+    "david_perez": []
+}
